@@ -1,5 +1,5 @@
 # Texts-to-Outlines
-Convert all text layers on page to outlines
+This sketch plugin converts all text layers on current page to outlines
 
 # Installation
 Copy the contents of the ZIP to ~/Library/Application Support/sketch/Plugins (you can get access to that folder by opening the Plugins menu, choosing "Custom Script..." and then clicking in the gear icon and choosing "Open Plugins Folder")
